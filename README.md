@@ -4,11 +4,11 @@
 A simple python-based Expense Tracker that stores expenses in a CSV file.
 
 ## Features
-Add new expenses
-View all expenses
+Add new expenses,
+View all expenses,
 Calculate total expenses
 
 ## Technologies Used
-Python
-CSV
+Python,
+CSV,
 File Handling
